@@ -1,0 +1,25 @@
+# US Power Grid Macro-Dynamics — Python Dependencies
+# Install: pip install -r requirements.txt
+# Python >= 3.9 recommended
+
+# ── Core data manipulation ─────────────────────────────────────────────────
+numpy>=1.24.0
+pandas>=2.0.0
+
+# ── Scientific computing ───────────────────────────────────────────────────
+scipy>=1.10.0          # CubicSpline, pearsonr, spearmanr, ttest_1samp, stats
+
+# ── Econometrics & time-series ─────────────────────────────────────────────
+statsmodels>=0.14.0    # OLS (smf/sm), STL, seasonal_decompose, het_breuschpagan
+
+# ── Visualisation ──────────────────────────────────────────────────────────
+matplotlib>=3.7.0      # pyplot, ticker
+seaborn>=0.12.0        # heatmap, set_palette
+
+# ── Jupyter environment ────────────────────────────────────────────────────
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# ── Standard library (no install needed) ──────────────────────────────────
+# os, pathlib, warnings  — included with Python

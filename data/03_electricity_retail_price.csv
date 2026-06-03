@@ -1,0 +1,781 @@
+period,stateid,stateDescription,sectorid,sectorName,price,price-units
+2010-01,US,U.S. Total,ALL,all sectors,9.28,cents per kilowatt-hour
+2010-01,US,U.S. Total,COM,commercial,9.55,cents per kilowatt-hour
+2010-01,US,U.S. Total,IND,industrial,6.5,cents per kilowatt-hour
+2010-01,US,U.S. Total,RES,residential,10.49,cents per kilowatt-hour
+2010-02,US,U.S. Total,ALL,all sectors,9.47,cents per kilowatt-hour
+2010-02,US,U.S. Total,COM,commercial,9.89,cents per kilowatt-hour
+2010-02,US,U.S. Total,IND,industrial,6.55,cents per kilowatt-hour
+2010-02,US,U.S. Total,RES,residential,10.89,cents per kilowatt-hour
+2010-03,US,U.S. Total,ALL,all sectors,9.48,cents per kilowatt-hour
+2010-03,US,U.S. Total,COM,commercial,9.95,cents per kilowatt-hour
+2010-03,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2010-03,US,U.S. Total,RES,residential,11.11,cents per kilowatt-hour
+2010-04,US,U.S. Total,ALL,all sectors,9.53,cents per kilowatt-hour
+2010-04,US,U.S. Total,COM,commercial,9.95,cents per kilowatt-hour
+2010-04,US,U.S. Total,IND,industrial,6.55,cents per kilowatt-hour
+2010-04,US,U.S. Total,RES,residential,11.71,cents per kilowatt-hour
+2010-05,US,U.S. Total,ALL,all sectors,9.72,cents per kilowatt-hour
+2010-05,US,U.S. Total,COM,commercial,10.15,cents per kilowatt-hour
+2010-05,US,U.S. Total,IND,industrial,6.64,cents per kilowatt-hour
+2010-05,US,U.S. Total,RES,residential,11.91,cents per kilowatt-hour
+2010-06,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatt-hour
+2010-06,US,U.S. Total,COM,commercial,10.56,cents per kilowatt-hour
+2010-06,US,U.S. Total,IND,industrial,6.97,cents per kilowatt-hour
+2010-06,US,U.S. Total,RES,residential,11.91,cents per kilowatt-hour
+2010-07,US,U.S. Total,ALL,all sectors,10.46,cents per kilowatt-hour
+2010-07,US,U.S. Total,COM,commercial,10.72,cents per kilowatt-hour
+2010-07,US,U.S. Total,IND,industrial,7.23,cents per kilowatt-hour
+2010-07,US,U.S. Total,RES,residential,12.04,cents per kilowatt-hour
+2010-08,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatt-hour
+2010-08,US,U.S. Total,COM,commercial,10.62,cents per kilowatt-hour
+2010-08,US,U.S. Total,IND,industrial,7.22,cents per kilowatt-hour
+2010-08,US,U.S. Total,RES,residential,12.03,cents per kilowatt-hour
+2010-09,US,U.S. Total,ALL,all sectors,10.17,cents per kilowatt-hour
+2010-09,US,U.S. Total,COM,commercial,10.52,cents per kilowatt-hour
+2010-09,US,U.S. Total,IND,industrial,7,cents per kilowatt-hour
+2010-09,US,U.S. Total,RES,residential,11.95,cents per kilowatt-hour
+2010-10,US,U.S. Total,ALL,all sectors,9.81,cents per kilowatt-hour
+2010-10,US,U.S. Total,COM,commercial,10.25,cents per kilowatt-hour
+2010-10,US,U.S. Total,IND,industrial,6.8,cents per kilowatt-hour
+2010-10,US,U.S. Total,RES,residential,11.86,cents per kilowatt-hour
+2010-11,US,U.S. Total,ALL,all sectors,9.55,cents per kilowatt-hour
+2010-11,US,U.S. Total,COM,commercial,9.99,cents per kilowatt-hour
+2010-11,US,U.S. Total,IND,industrial,6.56,cents per kilowatt-hour
+2010-11,US,U.S. Total,RES,residential,11.62,cents per kilowatt-hour
+2010-12,US,U.S. Total,ALL,all sectors,9.52,cents per kilowatt-hour
+2010-12,US,U.S. Total,COM,commercial,9.82,cents per kilowatt-hour
+2010-12,US,U.S. Total,IND,industrial,6.6,cents per kilowatt-hour
+2010-12,US,U.S. Total,RES,residential,11.06,cents per kilowatt-hour
+2011-01,US,U.S. Total,ALL,all sectors,9.48,cents per kilowatt-hour
+2011-01,US,U.S. Total,COM,commercial,9.78,cents per kilowatt-hour
+2011-01,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2011-01,US,U.S. Total,RES,residential,10.87,cents per kilowatt-hour
+2011-02,US,U.S. Total,ALL,all sectors,9.56,cents per kilowatt-hour
+2011-02,US,U.S. Total,COM,commercial,9.99,cents per kilowatt-hour
+2011-02,US,U.S. Total,IND,industrial,6.63,cents per kilowatt-hour
+2011-02,US,U.S. Total,RES,residential,11.06,cents per kilowatt-hour
+2011-03,US,U.S. Total,ALL,all sectors,9.55,cents per kilowatt-hour
+2011-03,US,U.S. Total,COM,commercial,9.93,cents per kilowatt-hour
+2011-03,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2011-03,US,U.S. Total,RES,residential,11.52,cents per kilowatt-hour
+2011-04,US,U.S. Total,ALL,all sectors,9.54,cents per kilowatt-hour
+2011-04,US,U.S. Total,COM,commercial,9.96,cents per kilowatt-hour
+2011-04,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2011-04,US,U.S. Total,RES,residential,11.67,cents per kilowatt-hour
+2011-05,US,U.S. Total,ALL,all sectors,9.78,cents per kilowatt-hour
+2011-05,US,U.S. Total,COM,commercial,10.19,cents per kilowatt-hour
+2011-05,US,U.S. Total,IND,industrial,6.68,cents per kilowatt-hour
+2011-05,US,U.S. Total,RES,residential,11.93,cents per kilowatt-hour
+2011-06,US,U.S. Total,ALL,all sectors,10.26,cents per kilowatt-hour
+2011-06,US,U.S. Total,COM,commercial,10.66,cents per kilowatt-hour
+2011-06,US,U.S. Total,IND,industrial,7.14,cents per kilowatt-hour
+2011-06,US,U.S. Total,RES,residential,11.97,cents per kilowatt-hour
+2011-07,US,U.S. Total,ALL,all sectors,10.47,cents per kilowatt-hour
+2011-07,US,U.S. Total,COM,commercial,10.67,cents per kilowatt-hour
+2011-07,US,U.S. Total,IND,industrial,7.32,cents per kilowatt-hour
+2011-07,US,U.S. Total,RES,residential,12.09,cents per kilowatt-hour
+2011-08,US,U.S. Total,ALL,all sectors,10.49,cents per kilowatt-hour
+2011-08,US,U.S. Total,COM,commercial,10.72,cents per kilowatt-hour
+2011-08,US,U.S. Total,IND,industrial,7.39,cents per kilowatt-hour
+2011-08,US,U.S. Total,RES,residential,12.09,cents per kilowatt-hour
+2011-09,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatt-hour
+2011-09,US,U.S. Total,COM,commercial,10.59,cents per kilowatt-hour
+2011-09,US,U.S. Total,IND,industrial,7.15,cents per kilowatt-hour
+2011-09,US,U.S. Total,RES,residential,12.17,cents per kilowatt-hour
+2011-10,US,U.S. Total,ALL,all sectors,9.83,cents per kilowatt-hour
+2011-10,US,U.S. Total,COM,commercial,10.25,cents per kilowatt-hour
+2011-10,US,U.S. Total,IND,industrial,6.77,cents per kilowatt-hour
+2011-10,US,U.S. Total,RES,residential,12.08,cents per kilowatt-hour
+2011-11,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatt-hour
+2011-11,US,U.S. Total,COM,commercial,9.98,cents per kilowatt-hour
+2011-11,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2011-11,US,U.S. Total,RES,residential,11.78,cents per kilowatt-hour
+2011-12,US,U.S. Total,ALL,all sectors,9.53,cents per kilowatt-hour
+2011-12,US,U.S. Total,COM,commercial,9.77,cents per kilowatt-hour
+2011-12,US,U.S. Total,IND,industrial,6.51,cents per kilowatt-hour
+2011-12,US,U.S. Total,RES,residential,11.4,cents per kilowatt-hour
+2012-01,US,U.S. Total,ALL,all sectors,9.61,cents per kilowatt-hour
+2012-01,US,U.S. Total,COM,commercial,9.84,cents per kilowatt-hour
+2012-01,US,U.S. Total,IND,industrial,6.44,cents per kilowatt-hour
+2012-01,US,U.S. Total,RES,residential,11.41,cents per kilowatt-hour
+2012-02,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatt-hour
+2012-02,US,U.S. Total,COM,commercial,9.94,cents per kilowatt-hour
+2012-02,US,U.S. Total,IND,industrial,6.45,cents per kilowatt-hour
+2012-02,US,U.S. Total,RES,residential,11.51,cents per kilowatt-hour
+2012-03,US,U.S. Total,ALL,all sectors,9.52,cents per kilowatt-hour
+2012-03,US,U.S. Total,COM,commercial,9.84,cents per kilowatt-hour
+2012-03,US,U.S. Total,IND,industrial,6.46,cents per kilowatt-hour
+2012-03,US,U.S. Total,RES,residential,11.7,cents per kilowatt-hour
+2012-04,US,U.S. Total,ALL,all sectors,9.47,cents per kilowatt-hour
+2012-04,US,U.S. Total,COM,commercial,9.82,cents per kilowatt-hour
+2012-04,US,U.S. Total,IND,industrial,6.38,cents per kilowatt-hour
+2012-04,US,U.S. Total,RES,residential,11.92,cents per kilowatt-hour
+2012-05,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatt-hour
+2012-05,US,U.S. Total,COM,commercial,9.96,cents per kilowatt-hour
+2012-05,US,U.S. Total,IND,industrial,6.53,cents per kilowatt-hour
+2012-05,US,U.S. Total,RES,residential,11.9,cents per kilowatt-hour
+2012-06,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatt-hour
+2012-06,US,U.S. Total,COM,commercial,10.39,cents per kilowatt-hour
+2012-06,US,U.S. Total,IND,industrial,6.89,cents per kilowatt-hour
+2012-06,US,U.S. Total,RES,residential,12.09,cents per kilowatt-hour
+2012-07,US,U.S. Total,ALL,all sectors,10.3,cents per kilowatt-hour
+2012-07,US,U.S. Total,COM,commercial,10.39,cents per kilowatt-hour
+2012-07,US,U.S. Total,IND,industrial,7.13,cents per kilowatt-hour
+2012-07,US,U.S. Total,RES,residential,12,cents per kilowatt-hour
+2012-08,US,U.S. Total,ALL,all sectors,10.32,cents per kilowatt-hour
+2012-08,US,U.S. Total,COM,commercial,10.39,cents per kilowatt-hour
+2012-08,US,U.S. Total,IND,industrial,7.08,cents per kilowatt-hour
+2012-08,US,U.S. Total,RES,residential,12.17,cents per kilowatt-hour
+2012-09,US,U.S. Total,ALL,all sectors,10.26,cents per kilowatt-hour
+2012-09,US,U.S. Total,COM,commercial,10.5,cents per kilowatt-hour
+2012-09,US,U.S. Total,IND,industrial,6.97,cents per kilowatt-hour
+2012-09,US,U.S. Total,RES,residential,12.3,cents per kilowatt-hour
+2012-10,US,U.S. Total,ALL,all sectors,9.74,cents per kilowatt-hour
+2012-10,US,U.S. Total,COM,commercial,10.08,cents per kilowatt-hour
+2012-10,US,U.S. Total,IND,industrial,6.62,cents per kilowatt-hour
+2012-10,US,U.S. Total,RES,residential,12.03,cents per kilowatt-hour
+2012-11,US,U.S. Total,ALL,all sectors,9.58,cents per kilowatt-hour
+2012-11,US,U.S. Total,COM,commercial,9.89,cents per kilowatt-hour
+2012-11,US,U.S. Total,IND,industrial,6.5,cents per kilowatt-hour
+2012-11,US,U.S. Total,RES,residential,11.75,cents per kilowatt-hour
+2012-12,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatt-hour
+2012-12,US,U.S. Total,COM,commercial,9.81,cents per kilowatt-hour
+2012-12,US,U.S. Total,IND,industrial,6.52,cents per kilowatt-hour
+2012-12,US,U.S. Total,RES,residential,11.62,cents per kilowatt-hour
+2013-01,US,U.S. Total,ALL,all sectors,9.64,cents per kilowatt-hour
+2013-01,US,U.S. Total,COM,commercial,9.77,cents per kilowatt-hour
+2013-01,US,U.S. Total,IND,industrial,6.5,cents per kilowatt-hour
+2013-01,US,U.S. Total,RES,residential,11.46,cents per kilowatt-hour
+2013-02,US,U.S. Total,ALL,all sectors,9.77,cents per kilowatt-hour
+2013-02,US,U.S. Total,COM,commercial,10.06,cents per kilowatt-hour
+2013-02,US,U.S. Total,IND,industrial,6.66,cents per kilowatt-hour
+2013-02,US,U.S. Total,RES,residential,11.63,cents per kilowatt-hour
+2013-03,US,U.S. Total,ALL,all sectors,9.71,cents per kilowatt-hour
+2013-03,US,U.S. Total,COM,commercial,10.02,cents per kilowatt-hour
+2013-03,US,U.S. Total,IND,industrial,6.64,cents per kilowatt-hour
+2013-03,US,U.S. Total,RES,residential,11.61,cents per kilowatt-hour
+2013-04,US,U.S. Total,ALL,all sectors,9.66,cents per kilowatt-hour
+2013-04,US,U.S. Total,COM,commercial,9.96,cents per kilowatt-hour
+2013-04,US,U.S. Total,IND,industrial,6.58,cents per kilowatt-hour
+2013-04,US,U.S. Total,RES,residential,11.93,cents per kilowatt-hour
+2013-05,US,U.S. Total,ALL,all sectors,9.92,cents per kilowatt-hour
+2013-05,US,U.S. Total,COM,commercial,10.22,cents per kilowatt-hour
+2013-05,US,U.S. Total,IND,industrial,6.75,cents per kilowatt-hour
+2013-05,US,U.S. Total,RES,residential,12.4,cents per kilowatt-hour
+2013-06,US,U.S. Total,ALL,all sectors,10.45,cents per kilowatt-hour
+2013-06,US,U.S. Total,COM,commercial,10.65,cents per kilowatt-hour
+2013-06,US,U.S. Total,IND,industrial,7.25,cents per kilowatt-hour
+2013-06,US,U.S. Total,RES,residential,12.54,cents per kilowatt-hour
+2013-07,US,U.S. Total,ALL,all sectors,10.69,cents per kilowatt-hour
+2013-07,US,U.S. Total,COM,commercial,10.7,cents per kilowatt-hour
+2013-07,US,U.S. Total,IND,industrial,7.45,cents per kilowatt-hour
+2013-07,US,U.S. Total,RES,residential,12.65,cents per kilowatt-hour
+2013-08,US,U.S. Total,ALL,all sectors,10.58,cents per kilowatt-hour
+2013-08,US,U.S. Total,COM,commercial,10.69,cents per kilowatt-hour
+2013-08,US,U.S. Total,IND,industrial,7.37,cents per kilowatt-hour
+2013-08,US,U.S. Total,RES,residential,12.53,cents per kilowatt-hour
+2013-09,US,U.S. Total,ALL,all sectors,10.43,cents per kilowatt-hour
+2013-09,US,U.S. Total,COM,commercial,10.53,cents per kilowatt-hour
+2013-09,US,U.S. Total,IND,industrial,7.22,cents per kilowatt-hour
+2013-09,US,U.S. Total,RES,residential,12.51,cents per kilowatt-hour
+2013-10,US,U.S. Total,ALL,all sectors,10.02,cents per kilowatt-hour
+2013-10,US,U.S. Total,COM,commercial,10.28,cents per kilowatt-hour
+2013-10,US,U.S. Total,IND,industrial,6.87,cents per kilowatt-hour
+2013-10,US,U.S. Total,RES,residential,12.36,cents per kilowatt-hour
+2013-11,US,U.S. Total,ALL,all sectors,9.79,cents per kilowatt-hour
+2013-11,US,U.S. Total,COM,commercial,10.03,cents per kilowatt-hour
+2013-11,US,U.S. Total,IND,industrial,6.65,cents per kilowatt-hour
+2013-11,US,U.S. Total,RES,residential,12.1,cents per kilowatt-hour
+2013-12,US,U.S. Total,ALL,all sectors,9.86,cents per kilowatt-hour
+2013-12,US,U.S. Total,COM,commercial,9.96,cents per kilowatt-hour
+2013-12,US,U.S. Total,IND,industrial,6.66,cents per kilowatt-hour
+2013-12,US,U.S. Total,RES,residential,11.72,cents per kilowatt-hour
+2014-01,US,U.S. Total,ALL,all sectors,10.12,cents per kilowatt-hour
+2014-01,US,U.S. Total,COM,commercial,10.35,cents per kilowatt-hour
+2014-01,US,U.S. Total,IND,industrial,6.98,cents per kilowatt-hour
+2014-01,US,U.S. Total,RES,residential,11.65,cents per kilowatt-hour
+2014-02,US,U.S. Total,ALL,all sectors,10.33,cents per kilowatt-hour
+2014-02,US,U.S. Total,COM,commercial,10.68,cents per kilowatt-hour
+2014-02,US,U.S. Total,IND,industrial,7.12,cents per kilowatt-hour
+2014-02,US,U.S. Total,RES,residential,11.94,cents per kilowatt-hour
+2014-03,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatt-hour
+2014-03,US,U.S. Total,COM,commercial,10.65,cents per kilowatt-hour
+2014-03,US,U.S. Total,IND,industrial,6.99,cents per kilowatt-hour
+2014-03,US,U.S. Total,RES,residential,12.25,cents per kilowatt-hour
+2014-04,US,U.S. Total,ALL,all sectors,10,cents per kilowatt-hour
+2014-04,US,U.S. Total,COM,commercial,10.46,cents per kilowatt-hour
+2014-04,US,U.S. Total,IND,industrial,6.77,cents per kilowatt-hour
+2014-04,US,U.S. Total,RES,residential,12.31,cents per kilowatt-hour
+2014-05,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatt-hour
+2014-05,US,U.S. Total,COM,commercial,10.54,cents per kilowatt-hour
+2014-05,US,U.S. Total,IND,industrial,6.83,cents per kilowatt-hour
+2014-05,US,U.S. Total,RES,residential,12.85,cents per kilowatt-hour
+2014-06,US,U.S. Total,ALL,all sectors,10.75,cents per kilowatt-hour
+2014-06,US,U.S. Total,COM,commercial,10.96,cents per kilowatt-hour
+2014-06,US,U.S. Total,IND,industrial,7.39,cents per kilowatt-hour
+2014-06,US,U.S. Total,RES,residential,12.99,cents per kilowatt-hour
+2014-07,US,U.S. Total,ALL,all sectors,11.03,cents per kilowatt-hour
+2014-07,US,U.S. Total,COM,commercial,11.17,cents per kilowatt-hour
+2014-07,US,U.S. Total,IND,industrial,7.62,cents per kilowatt-hour
+2014-07,US,U.S. Total,RES,residential,13.09,cents per kilowatt-hour
+2014-08,US,U.S. Total,ALL,all sectors,10.91,cents per kilowatt-hour
+2014-08,US,U.S. Total,COM,commercial,11.05,cents per kilowatt-hour
+2014-08,US,U.S. Total,IND,industrial,7.51,cents per kilowatt-hour
+2014-08,US,U.S. Total,RES,residential,13.04,cents per kilowatt-hour
+2014-09,US,U.S. Total,ALL,all sectors,10.83,cents per kilowatt-hour
+2014-09,US,U.S. Total,COM,commercial,11.16,cents per kilowatt-hour
+2014-09,US,U.S. Total,IND,industrial,7.37,cents per kilowatt-hour
+2014-09,US,U.S. Total,RES,residential,12.95,cents per kilowatt-hour
+2014-10,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatt-hour
+2014-10,US,U.S. Total,COM,commercial,10.83,cents per kilowatt-hour
+2014-10,US,U.S. Total,IND,industrial,7.07,cents per kilowatt-hour
+2014-10,US,U.S. Total,RES,residential,12.6,cents per kilowatt-hour
+2014-11,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatt-hour
+2014-11,US,U.S. Total,COM,commercial,10.52,cents per kilowatt-hour
+2014-11,US,U.S. Total,IND,industrial,6.75,cents per kilowatt-hour
+2014-11,US,U.S. Total,RES,residential,12.48,cents per kilowatt-hour
+2014-12,US,U.S. Total,ALL,all sectors,10.12,cents per kilowatt-hour
+2014-12,US,U.S. Total,COM,commercial,10.36,cents per kilowatt-hour
+2014-12,US,U.S. Total,IND,industrial,6.7,cents per kilowatt-hour
+2014-12,US,U.S. Total,RES,residential,12.17,cents per kilowatt-hour
+2015-01,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatt-hour
+2015-01,US,U.S. Total,COM,commercial,10.31,cents per kilowatt-hour
+2015-01,US,U.S. Total,IND,industrial,6.67,cents per kilowatt-hour
+2015-01,US,U.S. Total,RES,residential,12.1,cents per kilowatt-hour
+2015-02,US,U.S. Total,ALL,all sectors,10.36,cents per kilowatt-hour
+2015-02,US,U.S. Total,COM,commercial,10.62,cents per kilowatt-hour
+2015-02,US,U.S. Total,IND,industrial,6.88,cents per kilowatt-hour
+2015-02,US,U.S. Total,RES,residential,12.29,cents per kilowatt-hour
+2015-03,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatt-hour
+2015-03,US,U.S. Total,COM,commercial,10.63,cents per kilowatt-hour
+2015-03,US,U.S. Total,IND,industrial,6.83,cents per kilowatt-hour
+2015-03,US,U.S. Total,RES,residential,12.33,cents per kilowatt-hour
+2015-04,US,U.S. Total,ALL,all sectors,10.01,cents per kilowatt-hour
+2015-04,US,U.S. Total,COM,commercial,10.37,cents per kilowatt-hour
+2015-04,US,U.S. Total,IND,industrial,6.61,cents per kilowatt-hour
+2015-04,US,U.S. Total,RES,residential,12.62,cents per kilowatt-hour
+2015-05,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatt-hour
+2015-05,US,U.S. Total,COM,commercial,10.47,cents per kilowatt-hour
+2015-05,US,U.S. Total,IND,industrial,6.74,cents per kilowatt-hour
+2015-05,US,U.S. Total,RES,residential,12.93,cents per kilowatt-hour
+2015-06,US,U.S. Total,ALL,all sectors,10.64,cents per kilowatt-hour
+2015-06,US,U.S. Total,COM,commercial,10.89,cents per kilowatt-hour
+2015-06,US,U.S. Total,IND,industrial,7.11,cents per kilowatt-hour
+2015-06,US,U.S. Total,RES,residential,12.92,cents per kilowatt-hour
+2015-07,US,U.S. Total,ALL,all sectors,10.95,cents per kilowatt-hour
+2015-07,US,U.S. Total,COM,commercial,11.07,cents per kilowatt-hour
+2015-07,US,U.S. Total,IND,industrial,7.45,cents per kilowatt-hour
+2015-07,US,U.S. Total,RES,residential,12.94,cents per kilowatt-hour
+2015-08,US,U.S. Total,ALL,all sectors,10.85,cents per kilowatt-hour
+2015-08,US,U.S. Total,COM,commercial,10.94,cents per kilowatt-hour
+2015-08,US,U.S. Total,IND,industrial,7.35,cents per kilowatt-hour
+2015-08,US,U.S. Total,RES,residential,12.91,cents per kilowatt-hour
+2015-09,US,U.S. Total,ALL,all sectors,10.79,cents per kilowatt-hour
+2015-09,US,U.S. Total,COM,commercial,10.98,cents per kilowatt-hour
+2015-09,US,U.S. Total,IND,industrial,7.21,cents per kilowatt-hour
+2015-09,US,U.S. Total,RES,residential,13.03,cents per kilowatt-hour
+2015-10,US,U.S. Total,ALL,all sectors,10.31,cents per kilowatt-hour
+2015-10,US,U.S. Total,COM,commercial,10.73,cents per kilowatt-hour
+2015-10,US,U.S. Total,IND,industrial,6.88,cents per kilowatt-hour
+2015-10,US,U.S. Total,RES,residential,12.72,cents per kilowatt-hour
+2015-11,US,U.S. Total,ALL,all sectors,10.05,cents per kilowatt-hour
+2015-11,US,U.S. Total,COM,commercial,10.3,cents per kilowatt-hour
+2015-11,US,U.S. Total,IND,industrial,6.61,cents per kilowatt-hour
+2015-11,US,U.S. Total,RES,residential,12.71,cents per kilowatt-hour
+2015-12,US,U.S. Total,ALL,all sectors,9.98,cents per kilowatt-hour
+2015-12,US,U.S. Total,COM,commercial,10.13,cents per kilowatt-hour
+2015-12,US,U.S. Total,IND,industrial,6.45,cents per kilowatt-hour
+2015-12,US,U.S. Total,RES,residential,12.32,cents per kilowatt-hour
+2016-01,US,U.S. Total,ALL,all sectors,9.97,cents per kilowatt-hour
+2016-01,US,U.S. Total,COM,commercial,10.08,cents per kilowatt-hour
+2016-01,US,U.S. Total,IND,industrial,6.44,cents per kilowatt-hour
+2016-01,US,U.S. Total,RES,residential,11.99,cents per kilowatt-hour
+2016-02,US,U.S. Total,ALL,all sectors,10,cents per kilowatt-hour
+2016-02,US,U.S. Total,COM,commercial,10.25,cents per kilowatt-hour
+2016-02,US,U.S. Total,IND,industrial,6.42,cents per kilowatt-hour
+2016-02,US,U.S. Total,RES,residential,12.14,cents per kilowatt-hour
+2016-03,US,U.S. Total,ALL,all sectors,10,cents per kilowatt-hour
+2016-03,US,U.S. Total,COM,commercial,10.23,cents per kilowatt-hour
+2016-03,US,U.S. Total,IND,industrial,6.46,cents per kilowatt-hour
+2016-03,US,U.S. Total,RES,residential,12.56,cents per kilowatt-hour
+2016-04,US,U.S. Total,ALL,all sectors,9.83,cents per kilowatt-hour
+2016-04,US,U.S. Total,COM,commercial,10.19,cents per kilowatt-hour
+2016-04,US,U.S. Total,IND,industrial,6.44,cents per kilowatt-hour
+2016-04,US,U.S. Total,RES,residential,12.43,cents per kilowatt-hour
+2016-05,US,U.S. Total,ALL,all sectors,10.06,cents per kilowatt-hour
+2016-05,US,U.S. Total,COM,commercial,10.31,cents per kilowatt-hour
+2016-05,US,U.S. Total,IND,industrial,6.57,cents per kilowatt-hour
+2016-05,US,U.S. Total,RES,residential,12.79,cents per kilowatt-hour
+2016-06,US,U.S. Total,ALL,all sectors,10.52,cents per kilowatt-hour
+2016-06,US,U.S. Total,COM,commercial,10.66,cents per kilowatt-hour
+2016-06,US,U.S. Total,IND,industrial,7.03,cents per kilowatt-hour
+2016-06,US,U.S. Total,RES,residential,12.73,cents per kilowatt-hour
+2016-07,US,U.S. Total,ALL,all sectors,10.7,cents per kilowatt-hour
+2016-07,US,U.S. Total,COM,commercial,10.68,cents per kilowatt-hour
+2016-07,US,U.S. Total,IND,industrial,7.23,cents per kilowatt-hour
+2016-07,US,U.S. Total,RES,residential,12.68,cents per kilowatt-hour
+2016-08,US,U.S. Total,ALL,all sectors,10.81,cents per kilowatt-hour
+2016-08,US,U.S. Total,COM,commercial,10.76,cents per kilowatt-hour
+2016-08,US,U.S. Total,IND,industrial,7.23,cents per kilowatt-hour
+2016-08,US,U.S. Total,RES,residential,12.88,cents per kilowatt-hour
+2016-09,US,U.S. Total,ALL,all sectors,10.68,cents per kilowatt-hour
+2016-09,US,U.S. Total,COM,commercial,10.77,cents per kilowatt-hour
+2016-09,US,U.S. Total,IND,industrial,7.14,cents per kilowatt-hour
+2016-09,US,U.S. Total,RES,residential,12.87,cents per kilowatt-hour
+2016-10,US,U.S. Total,ALL,all sectors,10.15,cents per kilowatt-hour
+2016-10,US,U.S. Total,COM,commercial,10.55,cents per kilowatt-hour
+2016-10,US,U.S. Total,IND,industrial,6.73,cents per kilowatt-hour
+2016-10,US,U.S. Total,RES,residential,12.46,cents per kilowatt-hour
+2016-11,US,U.S. Total,ALL,all sectors,10.1,cents per kilowatt-hour
+2016-11,US,U.S. Total,COM,commercial,10.32,cents per kilowatt-hour
+2016-11,US,U.S. Total,IND,industrial,6.66,cents per kilowatt-hour
+2016-11,US,U.S. Total,RES,residential,12.75,cents per kilowatt-hour
+2016-12,US,U.S. Total,ALL,all sectors,10.09,cents per kilowatt-hour
+2016-12,US,U.S. Total,COM,commercial,10.17,cents per kilowatt-hour
+2016-12,US,U.S. Total,IND,industrial,6.67,cents per kilowatt-hour
+2016-12,US,U.S. Total,RES,residential,12.23,cents per kilowatt-hour
+2017-01,US,U.S. Total,ALL,all sectors,10.13,cents per kilowatt-hour
+2017-01,US,U.S. Total,COM,commercial,10.21,cents per kilowatt-hour
+2017-01,US,U.S. Total,IND,industrial,6.59,cents per kilowatt-hour
+2017-01,US,U.S. Total,RES,residential,12.21,cents per kilowatt-hour
+2017-02,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatt-hour
+2017-02,US,U.S. Total,COM,commercial,10.48,cents per kilowatt-hour
+2017-02,US,U.S. Total,IND,industrial,6.63,cents per kilowatt-hour
+2017-02,US,U.S. Total,RES,residential,12.79,cents per kilowatt-hour
+2017-03,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatt-hour
+2017-03,US,U.S. Total,COM,commercial,10.46,cents per kilowatt-hour
+2017-03,US,U.S. Total,IND,industrial,6.71,cents per kilowatt-hour
+2017-03,US,U.S. Total,RES,residential,12.89,cents per kilowatt-hour
+2017-04,US,U.S. Total,ALL,all sectors,10.07,cents per kilowatt-hour
+2017-04,US,U.S. Total,COM,commercial,10.4,cents per kilowatt-hour
+2017-04,US,U.S. Total,IND,industrial,6.6,cents per kilowatt-hour
+2017-04,US,U.S. Total,RES,residential,12.72,cents per kilowatt-hour
+2017-05,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatt-hour
+2017-05,US,U.S. Total,COM,commercial,10.59,cents per kilowatt-hour
+2017-05,US,U.S. Total,IND,industrial,6.78,cents per kilowatt-hour
+2017-05,US,U.S. Total,RES,residential,13.07,cents per kilowatt-hour
+2017-06,US,U.S. Total,ALL,all sectors,10.83,cents per kilowatt-hour
+2017-06,US,U.S. Total,COM,commercial,11.01,cents per kilowatt-hour
+2017-06,US,U.S. Total,IND,industrial,7.19,cents per kilowatt-hour
+2017-06,US,U.S. Total,RES,residential,13.2,cents per kilowatt-hour
+2017-07,US,U.S. Total,ALL,all sectors,10.95,cents per kilowatt-hour
+2017-07,US,U.S. Total,COM,commercial,10.97,cents per kilowatt-hour
+2017-07,US,U.S. Total,IND,industrial,7.31,cents per kilowatt-hour
+2017-07,US,U.S. Total,RES,residential,13.08,cents per kilowatt-hour
+2017-08,US,U.S. Total,ALL,all sectors,10.91,cents per kilowatt-hour
+2017-08,US,U.S. Total,COM,commercial,11.01,cents per kilowatt-hour
+2017-08,US,U.S. Total,IND,industrial,7.22,cents per kilowatt-hour
+2017-08,US,U.S. Total,RES,residential,13.15,cents per kilowatt-hour
+2017-09,US,U.S. Total,ALL,all sectors,10.86,cents per kilowatt-hour
+2017-09,US,U.S. Total,COM,commercial,11.03,cents per kilowatt-hour
+2017-09,US,U.S. Total,IND,industrial,7.17,cents per kilowatt-hour
+2017-09,US,U.S. Total,RES,residential,13.28,cents per kilowatt-hour
+2017-10,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatt-hour
+2017-10,US,U.S. Total,COM,commercial,10.78,cents per kilowatt-hour
+2017-10,US,U.S. Total,IND,industrial,6.91,cents per kilowatt-hour
+2017-10,US,U.S. Total,RES,residential,12.8,cents per kilowatt-hour
+2017-11,US,U.S. Total,ALL,all sectors,10.28,cents per kilowatt-hour
+2017-11,US,U.S. Total,COM,commercial,10.49,cents per kilowatt-hour
+2017-11,US,U.S. Total,IND,industrial,6.73,cents per kilowatt-hour
+2017-11,US,U.S. Total,RES,residential,12.94,cents per kilowatt-hour
+2017-12,US,U.S. Total,ALL,all sectors,10.17,cents per kilowatt-hour
+2017-12,US,U.S. Total,COM,commercial,10.28,cents per kilowatt-hour
+2017-12,US,U.S. Total,IND,industrial,6.54,cents per kilowatt-hour
+2017-12,US,U.S. Total,RES,residential,12.45,cents per kilowatt-hour
+2018-01,US,U.S. Total,ALL,all sectors,10.41,cents per kilowatt-hour
+2018-01,US,U.S. Total,COM,commercial,10.49,cents per kilowatt-hour
+2018-01,US,U.S. Total,IND,industrial,6.94,cents per kilowatt-hour
+2018-01,US,U.S. Total,RES,residential,12.22,cents per kilowatt-hour
+2018-02,US,U.S. Total,ALL,all sectors,10.42,cents per kilowatt-hour
+2018-02,US,U.S. Total,COM,commercial,10.65,cents per kilowatt-hour
+2018-02,US,U.S. Total,IND,industrial,6.78,cents per kilowatt-hour
+2018-02,US,U.S. Total,RES,residential,12.63,cents per kilowatt-hour
+2018-03,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatt-hour
+2018-03,US,U.S. Total,COM,commercial,10.51,cents per kilowatt-hour
+2018-03,US,U.S. Total,IND,industrial,6.63,cents per kilowatt-hour
+2018-03,US,U.S. Total,RES,residential,12.97,cents per kilowatt-hour
+2018-04,US,U.S. Total,ALL,all sectors,10.18,cents per kilowatt-hour
+2018-04,US,U.S. Total,COM,commercial,10.46,cents per kilowatt-hour
+2018-04,US,U.S. Total,IND,industrial,6.57,cents per kilowatt-hour
+2018-04,US,U.S. Total,RES,residential,12.88,cents per kilowatt-hour
+2018-05,US,U.S. Total,ALL,all sectors,10.35,cents per kilowatt-hour
+2018-05,US,U.S. Total,COM,commercial,10.51,cents per kilowatt-hour
+2018-05,US,U.S. Total,IND,industrial,6.79,cents per kilowatt-hour
+2018-05,US,U.S. Total,RES,residential,13.12,cents per kilowatt-hour
+2018-06,US,U.S. Total,ALL,all sectors,10.75,cents per kilowatt-hour
+2018-06,US,U.S. Total,COM,commercial,10.84,cents per kilowatt-hour
+2018-06,US,U.S. Total,IND,industrial,7.17,cents per kilowatt-hour
+2018-06,US,U.S. Total,RES,residential,13.03,cents per kilowatt-hour
+2018-07,US,U.S. Total,ALL,all sectors,10.99,cents per kilowatt-hour
+2018-07,US,U.S. Total,COM,commercial,11,cents per kilowatt-hour
+2018-07,US,U.S. Total,IND,industrial,7.32,cents per kilowatt-hour
+2018-07,US,U.S. Total,RES,residential,13.13,cents per kilowatt-hour
+2018-08,US,U.S. Total,ALL,all sectors,11.01,cents per kilowatt-hour
+2018-08,US,U.S. Total,COM,commercial,11.03,cents per kilowatt-hour
+2018-08,US,U.S. Total,IND,industrial,7.25,cents per kilowatt-hour
+2018-08,US,U.S. Total,RES,residential,13.26,cents per kilowatt-hour
+2018-09,US,U.S. Total,ALL,all sectors,10.66,cents per kilowatt-hour
+2018-09,US,U.S. Total,COM,commercial,10.72,cents per kilowatt-hour
+2018-09,US,U.S. Total,IND,industrial,7.05,cents per kilowatt-hour
+2018-09,US,U.S. Total,RES,residential,13.01,cents per kilowatt-hour
+2018-10,US,U.S. Total,ALL,all sectors,10.41,cents per kilowatt-hour
+2018-10,US,U.S. Total,COM,commercial,10.77,cents per kilowatt-hour
+2018-10,US,U.S. Total,IND,industrial,6.87,cents per kilowatt-hour
+2018-10,US,U.S. Total,RES,residential,12.85,cents per kilowatt-hour
+2018-11,US,U.S. Total,ALL,all sectors,10.35,cents per kilowatt-hour
+2018-11,US,U.S. Total,COM,commercial,10.54,cents per kilowatt-hour
+2018-11,US,U.S. Total,IND,industrial,6.85,cents per kilowatt-hour
+2018-11,US,U.S. Total,RES,residential,12.9,cents per kilowatt-hour
+2018-12,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatt-hour
+2018-12,US,U.S. Total,COM,commercial,10.33,cents per kilowatt-hour
+2018-12,US,U.S. Total,IND,industrial,6.67,cents per kilowatt-hour
+2018-12,US,U.S. Total,RES,residential,12.43,cents per kilowatt-hour
+2019-01,US,U.S. Total,ALL,all sectors,10.24,cents per kilowatt-hour
+2019-01,US,U.S. Total,COM,commercial,10.3,cents per kilowatt-hour
+2019-01,US,U.S. Total,IND,industrial,6.58,cents per kilowatt-hour
+2019-01,US,U.S. Total,RES,residential,12.47,cents per kilowatt-hour
+2019-02,US,U.S. Total,ALL,all sectors,10.4,cents per kilowatt-hour
+2019-02,US,U.S. Total,COM,commercial,10.54,cents per kilowatt-hour
+2019-02,US,U.S. Total,IND,industrial,6.69,cents per kilowatt-hour
+2019-02,US,U.S. Total,RES,residential,12.72,cents per kilowatt-hour
+2019-03,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatt-hour
+2019-03,US,U.S. Total,COM,commercial,10.46,cents per kilowatt-hour
+2019-03,US,U.S. Total,IND,industrial,6.73,cents per kilowatt-hour
+2019-03,US,U.S. Total,RES,residential,12.84,cents per kilowatt-hour
+2019-04,US,U.S. Total,ALL,all sectors,10.24,cents per kilowatt-hour
+2019-04,US,U.S. Total,COM,commercial,10.52,cents per kilowatt-hour
+2019-04,US,U.S. Total,IND,industrial,6.51,cents per kilowatt-hour
+2019-04,US,U.S. Total,RES,residential,13.25,cents per kilowatt-hour
+2019-05,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatt-hour
+2019-05,US,U.S. Total,COM,commercial,10.54,cents per kilowatt-hour
+2019-05,US,U.S. Total,IND,industrial,6.69,cents per kilowatt-hour
+2019-05,US,U.S. Total,RES,residential,13.31,cents per kilowatt-hour
+2019-06,US,U.S. Total,ALL,all sectors,10.74,cents per kilowatt-hour
+2019-06,US,U.S. Total,COM,commercial,10.9,cents per kilowatt-hour
+2019-06,US,U.S. Total,IND,industrial,6.87,cents per kilowatt-hour
+2019-06,US,U.S. Total,RES,residential,13.32,cents per kilowatt-hour
+2019-07,US,U.S. Total,ALL,all sectors,11,cents per kilowatt-hour
+2019-07,US,U.S. Total,COM,commercial,11.02,cents per kilowatt-hour
+2019-07,US,U.S. Total,IND,industrial,7.14,cents per kilowatt-hour
+2019-07,US,U.S. Total,RES,residential,13.26,cents per kilowatt-hour
+2019-08,US,U.S. Total,ALL,all sectors,11.05,cents per kilowatt-hour
+2019-08,US,U.S. Total,COM,commercial,11.02,cents per kilowatt-hour
+2019-08,US,U.S. Total,IND,industrial,7.4,cents per kilowatt-hour
+2019-08,US,U.S. Total,RES,residential,13.3,cents per kilowatt-hour
+2019-09,US,U.S. Total,ALL,all sectors,10.82,cents per kilowatt-hour
+2019-09,US,U.S. Total,COM,commercial,10.96,cents per kilowatt-hour
+2019-09,US,U.S. Total,IND,industrial,7.06,cents per kilowatt-hour
+2019-09,US,U.S. Total,RES,residential,13.16,cents per kilowatt-hour
+2019-10,US,U.S. Total,ALL,all sectors,10.39,cents per kilowatt-hour
+2019-10,US,U.S. Total,COM,commercial,10.74,cents per kilowatt-hour
+2019-10,US,U.S. Total,IND,industrial,6.84,cents per kilowatt-hour
+2019-10,US,U.S. Total,RES,residential,12.81,cents per kilowatt-hour
+2019-11,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatt-hour
+2019-11,US,U.S. Total,COM,commercial,10.57,cents per kilowatt-hour
+2019-11,US,U.S. Total,IND,industrial,6.72,cents per kilowatt-hour
+2019-11,US,U.S. Total,RES,residential,13.03,cents per kilowatt-hour
+2019-12,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatt-hour
+2019-12,US,U.S. Total,COM,commercial,10.32,cents per kilowatt-hour
+2019-12,US,U.S. Total,IND,industrial,6.38,cents per kilowatt-hour
+2019-12,US,U.S. Total,RES,residential,12.68,cents per kilowatt-hour
+2020-01,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatt-hour
+2020-01,US,U.S. Total,COM,commercial,10.18,cents per kilowatt-hour
+2020-01,US,U.S. Total,IND,industrial,6.37,cents per kilowatt-hour
+2020-01,US,U.S. Total,RES,residential,12.76,cents per kilowatt-hour
+2020-02,US,U.S. Total,ALL,all sectors,10.22,cents per kilowatt-hour
+2020-02,US,U.S. Total,COM,commercial,10.3,cents per kilowatt-hour
+2020-02,US,U.S. Total,IND,industrial,6.44,cents per kilowatt-hour
+2020-02,US,U.S. Total,RES,residential,12.82,cents per kilowatt-hour
+2020-03,US,U.S. Total,ALL,all sectors,10.21,cents per kilowatt-hour
+2020-03,US,U.S. Total,COM,commercial,10.34,cents per kilowatt-hour
+2020-03,US,U.S. Total,IND,industrial,6.39,cents per kilowatt-hour
+2020-03,US,U.S. Total,RES,residential,13.04,cents per kilowatt-hour
+2020-04,US,U.S. Total,ALL,all sectors,10.34,cents per kilowatt-hour
+2020-04,US,U.S. Total,COM,commercial,10.37,cents per kilowatt-hour
+2020-04,US,U.S. Total,IND,industrial,6.39,cents per kilowatt-hour
+2020-04,US,U.S. Total,RES,residential,13.24,cents per kilowatt-hour
+2020-05,US,U.S. Total,ALL,all sectors,10.39,cents per kilowatt-hour
+2020-05,US,U.S. Total,COM,commercial,10.4,cents per kilowatt-hour
+2020-05,US,U.S. Total,IND,industrial,6.54,cents per kilowatt-hour
+2020-05,US,U.S. Total,RES,residential,13.1,cents per kilowatt-hour
+2020-06,US,U.S. Total,ALL,all sectors,10.88,cents per kilowatt-hour
+2020-06,US,U.S. Total,COM,commercial,10.89,cents per kilowatt-hour
+2020-06,US,U.S. Total,IND,industrial,6.94,cents per kilowatt-hour
+2020-06,US,U.S. Total,RES,residential,13.22,cents per kilowatt-hour
+2020-07,US,U.S. Total,ALL,all sectors,11.06,cents per kilowatt-hour
+2020-07,US,U.S. Total,COM,commercial,10.84,cents per kilowatt-hour
+2020-07,US,U.S. Total,IND,industrial,7.16,cents per kilowatt-hour
+2020-07,US,U.S. Total,RES,residential,13.21,cents per kilowatt-hour
+2020-08,US,U.S. Total,ALL,all sectors,11.02,cents per kilowatt-hour
+2020-08,US,U.S. Total,COM,commercial,10.9,cents per kilowatt-hour
+2020-08,US,U.S. Total,IND,industrial,7.07,cents per kilowatt-hour
+2020-08,US,U.S. Total,RES,residential,13.26,cents per kilowatt-hour
+2020-09,US,U.S. Total,ALL,all sectors,10.99,cents per kilowatt-hour
+2020-09,US,U.S. Total,COM,commercial,11.02,cents per kilowatt-hour
+2020-09,US,U.S. Total,IND,industrial,7,cents per kilowatt-hour
+2020-09,US,U.S. Total,RES,residential,13.49,cents per kilowatt-hour
+2020-10,US,U.S. Total,ALL,all sectors,10.65,cents per kilowatt-hour
+2020-10,US,U.S. Total,COM,commercial,10.72,cents per kilowatt-hour
+2020-10,US,U.S. Total,IND,industrial,6.72,cents per kilowatt-hour
+2020-10,US,U.S. Total,RES,residential,13.66,cents per kilowatt-hour
+2020-11,US,U.S. Total,ALL,all sectors,10.38,cents per kilowatt-hour
+2020-11,US,U.S. Total,COM,commercial,10.53,cents per kilowatt-hour
+2020-11,US,U.S. Total,IND,industrial,6.49,cents per kilowatt-hour
+2020-11,US,U.S. Total,RES,residential,13.31,cents per kilowatt-hour
+2020-12,US,U.S. Total,ALL,all sectors,10.37,cents per kilowatt-hour
+2020-12,US,U.S. Total,COM,commercial,10.41,cents per kilowatt-hour
+2020-12,US,U.S. Total,IND,industrial,6.41,cents per kilowatt-hour
+2020-12,US,U.S. Total,RES,residential,12.78,cents per kilowatt-hour
+2021-01,US,U.S. Total,ALL,all sectors,10.29,cents per kilowatt-hour
+2021-01,US,U.S. Total,COM,commercial,10.27,cents per kilowatt-hour
+2021-01,US,U.S. Total,IND,industrial,6.32,cents per kilowatt-hour
+2021-01,US,U.S. Total,RES,residential,12.62,cents per kilowatt-hour
+2021-02,US,U.S. Total,ALL,all sectors,11.16,cents per kilowatt-hour
+2021-02,US,U.S. Total,COM,commercial,11.36,cents per kilowatt-hour
+2021-02,US,U.S. Total,IND,industrial,7.75,cents per kilowatt-hour
+2021-02,US,U.S. Total,RES,residential,13.01,cents per kilowatt-hour
+2021-03,US,U.S. Total,ALL,all sectors,10.84,cents per kilowatt-hour
+2021-03,US,U.S. Total,COM,commercial,11.08,cents per kilowatt-hour
+2021-03,US,U.S. Total,IND,industrial,6.98,cents per kilowatt-hour
+2021-03,US,U.S. Total,RES,residential,13.24,cents per kilowatt-hour
+2021-04,US,U.S. Total,ALL,all sectors,10.63,cents per kilowatt-hour
+2021-04,US,U.S. Total,COM,commercial,10.87,cents per kilowatt-hour
+2021-04,US,U.S. Total,IND,industrial,6.7,cents per kilowatt-hour
+2021-04,US,U.S. Total,RES,residential,13.73,cents per kilowatt-hour
+2021-05,US,U.S. Total,ALL,all sectors,10.69,cents per kilowatt-hour
+2021-05,US,U.S. Total,COM,commercial,10.86,cents per kilowatt-hour
+2021-05,US,U.S. Total,IND,industrial,6.65,cents per kilowatt-hour
+2021-05,US,U.S. Total,RES,residential,13.86,cents per kilowatt-hour
+2021-06,US,U.S. Total,ALL,all sectors,11.25,cents per kilowatt-hour
+2021-06,US,U.S. Total,COM,commercial,11.33,cents per kilowatt-hour
+2021-06,US,U.S. Total,IND,industrial,7.22,cents per kilowatt-hour
+2021-06,US,U.S. Total,RES,residential,13.83,cents per kilowatt-hour
+2021-07,US,U.S. Total,ALL,all sectors,11.45,cents per kilowatt-hour
+2021-07,US,U.S. Total,COM,commercial,11.46,cents per kilowatt-hour
+2021-07,US,U.S. Total,IND,industrial,7.42,cents per kilowatt-hour
+2021-07,US,U.S. Total,RES,residential,13.83,cents per kilowatt-hour
+2021-08,US,U.S. Total,ALL,all sectors,11.55,cents per kilowatt-hour
+2021-08,US,U.S. Total,COM,commercial,11.52,cents per kilowatt-hour
+2021-08,US,U.S. Total,IND,industrial,7.54,cents per kilowatt-hour
+2021-08,US,U.S. Total,RES,residential,13.92,cents per kilowatt-hour
+2021-09,US,U.S. Total,ALL,all sectors,11.59,cents per kilowatt-hour
+2021-09,US,U.S. Total,COM,commercial,11.65,cents per kilowatt-hour
+2021-09,US,U.S. Total,IND,industrial,7.61,cents per kilowatt-hour
+2021-09,US,U.S. Total,RES,residential,14.14,cents per kilowatt-hour
+2021-10,US,U.S. Total,ALL,all sectors,11.24,cents per kilowatt-hour
+2021-10,US,U.S. Total,COM,commercial,11.52,cents per kilowatt-hour
+2021-10,US,U.S. Total,IND,industrial,7.44,cents per kilowatt-hour
+2021-10,US,U.S. Total,RES,residential,14.06,cents per kilowatt-hour
+2021-11,US,U.S. Total,ALL,all sectors,11.14,cents per kilowatt-hour
+2021-11,US,U.S. Total,COM,commercial,11.29,cents per kilowatt-hour
+2021-11,US,U.S. Total,IND,industrial,7.37,cents per kilowatt-hour
+2021-11,US,U.S. Total,RES,residential,14.07,cents per kilowatt-hour
+2021-12,US,U.S. Total,ALL,all sectors,11.03,cents per kilowatt-hour
+2021-12,US,U.S. Total,COM,commercial,11.15,cents per kilowatt-hour
+2021-12,US,U.S. Total,IND,industrial,7.06,cents per kilowatt-hour
+2021-12,US,U.S. Total,RES,residential,13.72,cents per kilowatt-hour
+2022-01,US,U.S. Total,ALL,all sectors,11.24,cents per kilowatt-hour
+2022-01,US,U.S. Total,COM,commercial,11.26,cents per kilowatt-hour
+2022-01,US,U.S. Total,IND,industrial,7.19,cents per kilowatt-hour
+2022-01,US,U.S. Total,RES,residential,13.64,cents per kilowatt-hour
+2022-02,US,U.S. Total,ALL,all sectors,11.42,cents per kilowatt-hour
+2022-02,US,U.S. Total,COM,commercial,11.66,cents per kilowatt-hour
+2022-02,US,U.S. Total,IND,industrial,7.28,cents per kilowatt-hour
+2022-02,US,U.S. Total,RES,residential,13.76,cents per kilowatt-hour
+2022-03,US,U.S. Total,ALL,all sectors,11.48,cents per kilowatt-hour
+2022-03,US,U.S. Total,COM,commercial,11.65,cents per kilowatt-hour
+2022-03,US,U.S. Total,IND,industrial,7.37,cents per kilowatt-hour
+2022-03,US,U.S. Total,RES,residential,14.41,cents per kilowatt-hour
+2022-04,US,U.S. Total,ALL,all sectors,11.56,cents per kilowatt-hour
+2022-04,US,U.S. Total,COM,commercial,11.82,cents per kilowatt-hour
+2022-04,US,U.S. Total,IND,industrial,7.7,cents per kilowatt-hour
+2022-04,US,U.S. Total,RES,residential,14.57,cents per kilowatt-hour
+2022-05,US,U.S. Total,ALL,all sectors,11.98,cents per kilowatt-hour
+2022-05,US,U.S. Total,COM,commercial,12,cents per kilowatt-hour
+2022-05,US,U.S. Total,IND,industrial,8.25,cents per kilowatt-hour
+2022-05,US,U.S. Total,RES,residential,14.89,cents per kilowatt-hour
+2022-06,US,U.S. Total,ALL,all sectors,12.75,cents per kilowatt-hour
+2022-06,US,U.S. Total,COM,commercial,12.75,cents per kilowatt-hour
+2022-06,US,U.S. Total,IND,industrial,8.85,cents per kilowatt-hour
+2022-06,US,U.S. Total,RES,residential,15.3,cents per kilowatt-hour
+2022-07,US,U.S. Total,ALL,all sectors,13.12,cents per kilowatt-hour
+2022-07,US,U.S. Total,COM,commercial,13.02,cents per kilowatt-hour
+2022-07,US,U.S. Total,IND,industrial,9.31,cents per kilowatt-hour
+2022-07,US,U.S. Total,RES,residential,15.31,cents per kilowatt-hour
+2022-08,US,U.S. Total,ALL,all sectors,13.44,cents per kilowatt-hour
+2022-08,US,U.S. Total,COM,commercial,13.41,cents per kilowatt-hour
+2022-08,US,U.S. Total,IND,industrial,9.38,cents per kilowatt-hour
+2022-08,US,U.S. Total,RES,residential,15.82,cents per kilowatt-hour
+2022-09,US,U.S. Total,ALL,all sectors,13.31,cents per kilowatt-hour
+2022-09,US,U.S. Total,COM,commercial,13.28,cents per kilowatt-hour
+2022-09,US,U.S. Total,IND,industrial,9.06,cents per kilowatt-hour
+2022-09,US,U.S. Total,RES,residential,16.19,cents per kilowatt-hour
+2022-10,US,U.S. Total,ALL,all sectors,12.66,cents per kilowatt-hour
+2022-10,US,U.S. Total,COM,commercial,12.89,cents per kilowatt-hour
+2022-10,US,U.S. Total,IND,industrial,8.45,cents per kilowatt-hour
+2022-10,US,U.S. Total,RES,residential,15.99,cents per kilowatt-hour
+2022-11,US,U.S. Total,ALL,all sectors,12.3,cents per kilowatt-hour
+2022-11,US,U.S. Total,COM,commercial,12.33,cents per kilowatt-hour
+2022-11,US,U.S. Total,IND,industrial,8.14,cents per kilowatt-hour
+2022-11,US,U.S. Total,RES,residential,15.55,cents per kilowatt-hour
+2022-12,US,U.S. Total,ALL,all sectors,12.4,cents per kilowatt-hour
+2022-12,US,U.S. Total,COM,commercial,12.28,cents per kilowatt-hour
+2022-12,US,U.S. Total,IND,industrial,8.5,cents per kilowatt-hour
+2022-12,US,U.S. Total,RES,residential,14.94,cents per kilowatt-hour
+2023-01,US,U.S. Total,ALL,all sectors,12.68,cents per kilowatt-hour
+2023-01,US,U.S. Total,COM,commercial,12.61,cents per kilowatt-hour
+2023-01,US,U.S. Total,IND,industrial,8.18,cents per kilowatt-hour
+2023-01,US,U.S. Total,RES,residential,15.47,cents per kilowatt-hour
+2023-02,US,U.S. Total,ALL,all sectors,12.67,cents per kilowatt-hour
+2023-02,US,U.S. Total,COM,commercial,12.53,cents per kilowatt-hour
+2023-02,US,U.S. Total,IND,industrial,8.01,cents per kilowatt-hour
+2023-02,US,U.S. Total,RES,residential,15.98,cents per kilowatt-hour
+2023-03,US,U.S. Total,ALL,all sectors,12.46,cents per kilowatt-hour
+2023-03,US,U.S. Total,COM,commercial,12.36,cents per kilowatt-hour
+2023-03,US,U.S. Total,IND,industrial,7.8,cents per kilowatt-hour
+2023-03,US,U.S. Total,RES,residential,16.04,cents per kilowatt-hour
+2023-04,US,U.S. Total,ALL,all sectors,12.16,cents per kilowatt-hour
+2023-04,US,U.S. Total,COM,commercial,12.08,cents per kilowatt-hour
+2023-04,US,U.S. Total,IND,industrial,7.51,cents per kilowatt-hour
+2023-04,US,U.S. Total,RES,residential,16.1,cents per kilowatt-hour
+2023-05,US,U.S. Total,ALL,all sectors,12.21,cents per kilowatt-hour
+2023-05,US,U.S. Total,COM,commercial,12.16,cents per kilowatt-hour
+2023-05,US,U.S. Total,IND,industrial,7.64,cents per kilowatt-hour
+2023-05,US,U.S. Total,RES,residential,16.14,cents per kilowatt-hour
+2023-06,US,U.S. Total,ALL,all sectors,12.72,cents per kilowatt-hour
+2023-06,US,U.S. Total,COM,commercial,12.63,cents per kilowatt-hour
+2023-06,US,U.S. Total,IND,industrial,8.11,cents per kilowatt-hour
+2023-06,US,U.S. Total,RES,residential,16.09,cents per kilowatt-hour
+2023-07,US,U.S. Total,ALL,all sectors,13.06,cents per kilowatt-hour
+2023-07,US,U.S. Total,COM,commercial,12.91,cents per kilowatt-hour
+2023-07,US,U.S. Total,IND,industrial,8.36,cents per kilowatt-hour
+2023-07,US,U.S. Total,RES,residential,15.86,cents per kilowatt-hour
+2023-08,US,U.S. Total,ALL,all sectors,13.27,cents per kilowatt-hour
+2023-08,US,U.S. Total,COM,commercial,13.08,cents per kilowatt-hour
+2023-08,US,U.S. Total,IND,industrial,8.9,cents per kilowatt-hour
+2023-08,US,U.S. Total,RES,residential,15.91,cents per kilowatt-hour
+2023-09,US,U.S. Total,ALL,all sectors,13.14,cents per kilowatt-hour
+2023-09,US,U.S. Total,COM,commercial,13.07,cents per kilowatt-hour
+2023-09,US,U.S. Total,IND,industrial,8.43,cents per kilowatt-hour
+2023-09,US,U.S. Total,RES,residential,16.27,cents per kilowatt-hour
+2023-10,US,U.S. Total,ALL,all sectors,12.67,cents per kilowatt-hour
+2023-10,US,U.S. Total,COM,commercial,12.73,cents per kilowatt-hour
+2023-10,US,U.S. Total,IND,industrial,8.01,cents per kilowatt-hour
+2023-10,US,U.S. Total,RES,residential,16.48,cents per kilowatt-hour
+2023-11,US,U.S. Total,ALL,all sectors,12.44,cents per kilowatt-hour
+2023-11,US,U.S. Total,COM,commercial,12.43,cents per kilowatt-hour
+2023-11,US,U.S. Total,IND,industrial,7.79,cents per kilowatt-hour
+2023-11,US,U.S. Total,RES,residential,16.19,cents per kilowatt-hour
+2023-12,US,U.S. Total,ALL,all sectors,12.34,cents per kilowatt-hour
+2023-12,US,U.S. Total,COM,commercial,12.24,cents per kilowatt-hour
+2023-12,US,U.S. Total,IND,industrial,7.61,cents per kilowatt-hour
+2023-12,US,U.S. Total,RES,residential,15.69,cents per kilowatt-hour
+2024-01,US,U.S. Total,ALL,all sectors,12.65,cents per kilowatt-hour
+2024-01,US,U.S. Total,COM,commercial,12.5,cents per kilowatt-hour
+2024-01,US,U.S. Total,IND,industrial,8.07,cents per kilowatt-hour
+2024-01,US,U.S. Total,RES,residential,15.41,cents per kilowatt-hour
+2024-02,US,U.S. Total,ALL,all sectors,12.66,cents per kilowatt-hour
+2024-02,US,U.S. Total,COM,commercial,12.53,cents per kilowatt-hour
+2024-02,US,U.S. Total,IND,industrial,7.76,cents per kilowatt-hour
+2024-02,US,U.S. Total,RES,residential,16.1,cents per kilowatt-hour
+2024-03,US,U.S. Total,ALL,all sectors,12.57,cents per kilowatt-hour
+2024-03,US,U.S. Total,COM,commercial,12.47,cents per kilowatt-hour
+2024-03,US,U.S. Total,IND,industrial,7.68,cents per kilowatt-hour
+2024-03,US,U.S. Total,RES,residential,16.67,cents per kilowatt-hour
+2024-04,US,U.S. Total,ALL,all sectors,12.54,cents per kilowatt-hour
+2024-04,US,U.S. Total,COM,commercial,12.35,cents per kilowatt-hour
+2024-04,US,U.S. Total,IND,industrial,7.79,cents per kilowatt-hour
+2024-04,US,U.S. Total,RES,residential,16.86,cents per kilowatt-hour
+2024-05,US,U.S. Total,ALL,all sectors,12.47,cents per kilowatt-hour
+2024-05,US,U.S. Total,COM,commercial,12.32,cents per kilowatt-hour
+2024-05,US,U.S. Total,IND,industrial,7.87,cents per kilowatt-hour
+2024-05,US,U.S. Total,RES,residential,16.4,cents per kilowatt-hour
+2024-06,US,U.S. Total,ALL,all sectors,13.14,cents per kilowatt-hour
+2024-06,US,U.S. Total,COM,commercial,12.89,cents per kilowatt-hour
+2024-06,US,U.S. Total,IND,industrial,8.41,cents per kilowatt-hour
+2024-06,US,U.S. Total,RES,residential,16.38,cents per kilowatt-hour
+2024-07,US,U.S. Total,ALL,all sectors,13.63,cents per kilowatt-hour
+2024-07,US,U.S. Total,COM,commercial,13.37,cents per kilowatt-hour
+2024-07,US,U.S. Total,IND,industrial,8.73,cents per kilowatt-hour
+2024-07,US,U.S. Total,RES,residential,16.62,cents per kilowatt-hour
+2024-08,US,U.S. Total,ALL,all sectors,13.48,cents per kilowatt-hour
+2024-08,US,U.S. Total,COM,commercial,13.16,cents per kilowatt-hour
+2024-08,US,U.S. Total,IND,industrial,8.67,cents per kilowatt-hour
+2024-08,US,U.S. Total,RES,residential,16.6,cents per kilowatt-hour
+2024-09,US,U.S. Total,ALL,all sectors,13.34,cents per kilowatt-hour
+2024-09,US,U.S. Total,COM,commercial,13.23,cents per kilowatt-hour
+2024-09,US,U.S. Total,IND,industrial,8.45,cents per kilowatt-hour
+2024-09,US,U.S. Total,RES,residential,16.82,cents per kilowatt-hour
+2024-10,US,U.S. Total,ALL,all sectors,12.96,cents per kilowatt-hour
+2024-10,US,U.S. Total,COM,commercial,12.89,cents per kilowatt-hour
+2024-10,US,U.S. Total,IND,industrial,8.11,cents per kilowatt-hour
+2024-10,US,U.S. Total,RES,residential,17.09,cents per kilowatt-hour
+2024-11,US,U.S. Total,ALL,all sectors,12.57,cents per kilowatt-hour
+2024-11,US,U.S. Total,COM,commercial,12.35,cents per kilowatt-hour
+2024-11,US,U.S. Total,IND,industrial,7.85,cents per kilowatt-hour
+2024-11,US,U.S. Total,RES,residential,16.85,cents per kilowatt-hour
+2024-12,US,U.S. Total,ALL,all sectors,12.82,cents per kilowatt-hour
+2024-12,US,U.S. Total,COM,commercial,12.64,cents per kilowatt-hour
+2024-12,US,U.S. Total,IND,industrial,7.96,cents per kilowatt-hour
+2024-12,US,U.S. Total,RES,residential,16.27,cents per kilowatt-hour
+2025-01,US,U.S. Total,ALL,all sectors,13.09,cents per kilowatt-hour
+2025-01,US,U.S. Total,COM,commercial,12.82,cents per kilowatt-hour
+2025-01,US,U.S. Total,IND,industrial,8.34,cents per kilowatt-hour
+2025-01,US,U.S. Total,RES,residential,15.94,cents per kilowatt-hour
+2025-02,US,U.S. Total,ALL,all sectors,13.18,cents per kilowatt-hour
+2025-02,US,U.S. Total,COM,commercial,12.98,cents per kilowatt-hour
+2025-02,US,U.S. Total,IND,industrial,8.24,cents per kilowatt-hour
+2025-02,US,U.S. Total,RES,residential,16.43,cents per kilowatt-hour
+2025-03,US,U.S. Total,ALL,all sectors,13.23,cents per kilowatt-hour
+2025-03,US,U.S. Total,COM,commercial,13.16,cents per kilowatt-hour
+2025-03,US,U.S. Total,IND,industrial,8.26,cents per kilowatt-hour
+2025-03,US,U.S. Total,RES,residential,17.09,cents per kilowatt-hour
+2025-04,US,U.S. Total,ALL,all sectors,13.09,cents per kilowatt-hour
+2025-04,US,U.S. Total,COM,commercial,12.89,cents per kilowatt-hour
+2025-04,US,U.S. Total,IND,industrial,8.21,cents per kilowatt-hour
+2025-04,US,U.S. Total,RES,residential,17.55,cents per kilowatt-hour
+2025-05,US,U.S. Total,ALL,all sectors,13.13,cents per kilowatt-hour
+2025-05,US,U.S. Total,COM,commercial,12.93,cents per kilowatt-hour
+2025-05,US,U.S. Total,IND,industrial,8.29,cents per kilowatt-hour
+2025-05,US,U.S. Total,RES,residential,17.37,cents per kilowatt-hour
+2025-06,US,U.S. Total,ALL,all sectors,13.86,cents per kilowatt-hour
+2025-06,US,U.S. Total,COM,commercial,13.54,cents per kilowatt-hour
+2025-06,US,U.S. Total,IND,industrial,8.9,cents per kilowatt-hour
+2025-06,US,U.S. Total,RES,residential,17.47,cents per kilowatt-hour
+2025-07,US,U.S. Total,ALL,all sectors,14.36,cents per kilowatt-hour
+2025-07,US,U.S. Total,COM,commercial,14.05,cents per kilowatt-hour
+2025-07,US,U.S. Total,IND,industrial,9.33,cents per kilowatt-hour
+2025-07,US,U.S. Total,RES,residential,17.45,cents per kilowatt-hour
+2025-08,US,U.S. Total,ALL,all sectors,14.22,cents per kilowatt-hour
+2025-08,US,U.S. Total,COM,commercial,13.93,cents per kilowatt-hour
+2025-08,US,U.S. Total,IND,industrial,9.08,cents per kilowatt-hour
+2025-08,US,U.S. Total,RES,residential,17.61,cents per kilowatt-hour
+2025-09,US,U.S. Total,ALL,all sectors,14.21,cents per kilowatt-hour
+2025-09,US,U.S. Total,COM,commercial,13.99,cents per kilowatt-hour
+2025-09,US,U.S. Total,IND,industrial,9.02,cents per kilowatt-hour
+2025-09,US,U.S. Total,RES,residential,18.08,cents per kilowatt-hour
+2025-10,US,U.S. Total,ALL,all sectors,13.66,cents per kilowatt-hour
+2025-10,US,U.S. Total,COM,commercial,13.49,cents per kilowatt-hour
+2025-10,US,U.S. Total,IND,industrial,8.65,cents per kilowatt-hour
+2025-10,US,U.S. Total,RES,residential,17.97,cents per kilowatt-hour
+2025-11,US,U.S. Total,ALL,all sectors,13.43,cents per kilowatt-hour
+2025-11,US,U.S. Total,COM,commercial,13.19,cents per kilowatt-hour
+2025-11,US,U.S. Total,IND,industrial,8.44,cents per kilowatt-hour
+2025-11,US,U.S. Total,RES,residential,17.78,cents per kilowatt-hour
+2025-12,US,U.S. Total,ALL,all sectors,13.73,cents per kilowatt-hour
+2025-12,US,U.S. Total,COM,commercial,13.63,cents per kilowatt-hour
+2025-12,US,U.S. Total,IND,industrial,8.53,cents per kilowatt-hour
+2025-12,US,U.S. Total,RES,residential,17.24,cents per kilowatt-hour
+2026-01,US,U.S. Total,ALL,all sectors,14.17,cents per kilowatt-hour
+2026-01,US,U.S. Total,COM,commercial,13.64,cents per kilowatt-hour
+2026-01,US,U.S. Total,IND,industrial,9.29,cents per kilowatt-hour
+2026-01,US,U.S. Total,RES,residential,17.45,cents per kilowatt-hour
+2026-02,US,U.S. Total,ALL,all sectors,14.36,cents per kilowatt-hour
+2026-02,US,U.S. Total,COM,commercial,14.37,cents per kilowatt-hour
+2026-02,US,U.S. Total,IND,industrial,8.95,cents per kilowatt-hour
+2026-02,US,U.S. Total,RES,residential,17.65,cents per kilowatt-hour
+2026-03,US,U.S. Total,ALL,all sectors,14.18,cents per kilowatt-hour
+2026-03,US,U.S. Total,COM,commercial,13.92,cents per kilowatt-hour
+2026-03,US,U.S. Total,IND,industrial,8.58,cents per kilowatt-hour
+2026-03,US,U.S. Total,RES,residential,18.83,cents per kilowatt-hour
